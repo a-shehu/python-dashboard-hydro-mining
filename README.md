@@ -22,12 +22,3 @@ panel serve ui-hydro.ipynb --port 5010 --show
 
 ---
 
-### Cosa fare:
-
-- Metti il file `image.png` nella root della tua repository (o aggiorna il percorso se si trova in una cartella).
-- Quando carichi e visualizzi il `README.md` su GitHub (o altro servizio Git), l’immagine apparirà proprio sotto il blocco di codice.
-
----
-
-Se vuoi te lo riassemblo in tutto il file con questa parte ben evidenziata, fammi sapere!
-
