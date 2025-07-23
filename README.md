@@ -18,3 +18,12 @@ To serve the dashboard locally, open a terminal and run the following command:
 
 ```bash
 panel serve ui-hydro.ipynb --port 5010 --show
+
+
+### Cosa fare ora:
+
+1. **Aggiungi lo screenshot**  
+   Salva lo screenshot della dashboard come `screenshot.png` nella root del tuo repository. Oppure, se hai un altro nome o percorso per l'immagine, aggiorna il link:
+   ```markdown
+   ![Dashboard Screenshot](image.png)
+
