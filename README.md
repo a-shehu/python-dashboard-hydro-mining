@@ -19,5 +19,4 @@ To serve the dashboard locally, open a terminal and run the following command:
 ```bash
 panel serve ui-hydro.ipynb --port 5010 --show
 ```
-
-!(python-dashboard-panel/dashboard.PNG)
+![Interactive Dashboard Preview](dashboard.PNG)
