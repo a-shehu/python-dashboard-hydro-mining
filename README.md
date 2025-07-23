@@ -20,4 +20,4 @@ To serve the dashboard locally, open a terminal and run the following command:
 panel serve ui-hydro.ipynb --port 5010 --show
 ```
 
-`dashboard.png`
+!(dashboard.png)
