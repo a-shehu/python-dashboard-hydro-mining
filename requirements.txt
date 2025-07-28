@@ -66,7 +66,7 @@ overrides==7.7.0
 packaging==25.0
 pandas==2.3.1
 pandocfilters==1.5.1
-panel==1.7.4
+panel==1.7.5
 param==2.2.1
 parso==0.8.4
 pillow==11.3.0
