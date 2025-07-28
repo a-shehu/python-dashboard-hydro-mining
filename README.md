@@ -48,4 +48,28 @@ To serve the dashboard locally, open a terminal and run the following command:
 ```bash
 panel serve interact-ui-dashboard.ipynb --port 5010 --show
 ```
+## Usage
+1. Use provided sliders and selectors to adjust power consumption and economic parameters.
+2. Analyze dynamically updated visualizations illustrating the effects on mining and economic metrics.
+3. Export data tables or charts as needed for further offline review.
+
+## Requirements
+
+- Python 3.7+
+- panel
+- pandas
+- numpy
+- hvplot
+- holoviews
+
+Install dependencies via pip
+
+```bash
+pip freeze > requirements.txt
+```
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 ![Interactive Dashboard Preview](dashboard.PNG)
