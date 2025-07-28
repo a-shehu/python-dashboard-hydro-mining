@@ -1,4 +1,4 @@
-# 🐍 Python Dashboard Panel
+# 🐍 Python Dashboard Hydro Mininig Model
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Panel](https://img.shields.io/badge/Panel-1.4-lightgrey)](https://panel.holoviz.org/)
