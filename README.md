@@ -39,7 +39,6 @@ This project offers an interactive visualization dashboard that models both Bitc
 | **Cost Components**       | Detailed fixed and variable costs, scaled logarithmically to reflect operational realities.      |
 | **Gross Revenue**         | Scaled using mixed sqrt and logarithmic growth functions for controlled faster revenue growth.   |
 | **Net Profits**           | Similarly scaled with parameters permitting slightly higher growth than revenues.                |
-| **Scenario Analysis**     | Enables sensitivity exploration by modifying discount rates, investment levels, and power input. |
 
 
 ### 🚀 How to Run
